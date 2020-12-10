@@ -1,0 +1,3 @@
+include ':xfilepicker'
+include ':app'
+rootProject.name = "XFilePicker"
